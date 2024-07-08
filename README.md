@@ -15,7 +15,7 @@ For any inquiries or collaborations, feel free to reach out:
 
 * Email: prasadshinde0428@gmail.com
 * LinkedIn: https://www.linkedin.com/in/prasad-shinde-b0167328b/
-Reference
+# Reference
 You may visit my LinkedIn post to refer.
 
-Link-https:https://www.linkedin.com/posts/prasad-shinde-b0167328b_softwaredevelopment-cprogramming-activity-7215567681997971456-i_48?utm_source=share&utm_medium=member_desktop
+* Link-https:https://www.linkedin.com/posts/prasad-shinde-b0167328b_softwaredevelopment-cprogramming-activity-7215567681997971456-i_48?utm_source=share&utm_medium=member_desktop
